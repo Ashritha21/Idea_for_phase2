@@ -1,4 +1,4 @@
-# Idea_for_phase2
+# Idea_for_phase2 by Jayashri and Ashritha (Team Technocrats)
 Thousands of human lives are lost every year around the globe, apart from significant damage on property, animal life etc. due to natural disasters. In this approach we focus on data mining and analytical techniques designed for prediction, detection and development of appropriate disaster management strategy based on the collected data from disasters.
 Machine learning in disaster management holds the potential to use predictive analytics for alerting about upcoming calamities.
 Predictive analytics is one of the features of machine learning that allows organizations to know about the forthcoming events.  We will be using machine learning to do the work of predictive analytics by tracking patterns and analysing information to know about the possibilities of the same occurring in future. It can assist officials by providing them details on the specific areas where they are less affected. predictive analytics can also supply insights for the authorities to know the impact of a calamity affected area.
